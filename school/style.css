@@ -8,19 +8,12 @@ nav {
   
   li {
     display: inline;
-  }
-  
-  li {
     float: left;
-  }
-  
-  a {
     display: block;
     padding: 8px;
-    background-color: #070707;
-  }
+    background-color: #070707;}
   
-  li a {
+    li a {
     display: block;
     color: white;
     text-align: center;
@@ -33,3 +26,5 @@ nav {
     background-color: #e92929;
   }
  h1 {text-align: center}
+.link{text-align: center;
+      color:#e92929 ;}
