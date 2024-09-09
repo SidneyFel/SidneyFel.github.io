@@ -25,6 +25,20 @@ nav {
   li a:hover {
     background-color: #e92929;
   }
- h1 {text-align: center}
-.link{text-align: center;
+
+  h1 {text-align: center}
+
+ .link{text-align: center;
       color:#e92929 ;}
+
+table, th, td 
+{border: 1px solid black;
+ border-collapse: collapse;
+ color: rgb(197, 197, 197);
+ }
+ 
+th, td
+{background-color: #242323;}
+
+body
+{background-color:#bbbbbb}
