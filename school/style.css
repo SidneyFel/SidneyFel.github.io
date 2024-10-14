@@ -6,14 +6,14 @@ nav {
     background-color: #333;
   }
   
-  .navigatie1{
+  .navigatieBalk{
     display: inline;
     float: left;
     display: block;
     padding: 8px;
     background-color: #070707;}
   
-    .navigatie2 {
+    .navigatieHover {
     display: block;
     color: white;
     text-align: center;
@@ -21,7 +21,7 @@ nav {
     text-decoration: none;
   }
   
-  .navigatie2:hover {
+  .navigatieHover:hover {
     background-color: #e92929;
   }
 
