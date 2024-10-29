@@ -43,5 +43,18 @@ th, td
 body
 {background-color:#bbbbbb}
 
-
+.blogposts {
+  color: white;
+  background-color: #171717;
+  padding: 20px 30px; 
+  border-radius: 5px; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-weight: bold;
+  text-align: center;
+  }
+  
+  .blogposts:hover {
+  background-color: #e92929; 
+  }
 
